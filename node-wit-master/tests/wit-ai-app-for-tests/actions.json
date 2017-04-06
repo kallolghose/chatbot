@@ -1,0 +1,9 @@
+{
+  "data" : [
+    {
+      "id" : "template-Hello to you too!",
+      "type" : "template",
+      "template" : "Hello to you too!"
+    }
+  ]
+}

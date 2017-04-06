@@ -1,0 +1,8 @@
+{
+  "version" : 20160513,
+  "zip-command" : "zip wit-ai-app-for-tests.zip wit-ai-app-for-tests/app.json wit-ai-app-for-tests/entities/*.json wit-ai-app-for-tests/actions.json wit-ai-app-for-tests/stories.json wit-ai-app-for-tests/expressions.json",
+  "data" : {
+    "name" : "wit-ai-app-for-tests",
+    "lang" : "en"
+  }
+}

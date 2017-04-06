@@ -1,0 +1,23 @@
+{
+  "data" : [
+    {
+      "name" : "",
+      "turns" : [
+        {
+          "user" : "Hello",
+          "entities" : [
+            {
+              "entity" : "intent",
+              "value" : "\"greet\""
+            }
+          ],
+          "operations" : [
+            {
+              "action" : "template-Hello to you too!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
